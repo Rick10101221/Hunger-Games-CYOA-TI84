@@ -1,4 +1,4 @@
-# hung-game-ti84
+# The Hunger Games CYOA on the TI-84 Calculator
 Hunger Games on the Ti-84 Plus calculator. A game I made a few years back on my Ti-84 Plus. The game still has a few bugs since I haven't edited any of the code on a computer. Created solely on the Ti-84 in spite of its terrible syntax (yes, this is a valid boast because it was difficult, but fun).
 
 # backstory
